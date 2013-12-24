@@ -1,0 +1,21 @@
+{
+  "name": "koa-examples",
+  "version": "0.0.0",
+  "description": "Examples of Koa",
+  "scripts": {
+    "test": "NODE_ENV=test make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosssi/koa-examples.git"
+  },
+  "author": "Keiji Yoshida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yosssi/koa-examples/issues"
+  },
+  "homepage": "https://github.com/yosssi/koa-examples",
+  "dependencies": {
+    "koa": "~0.1.2"
+  }
+}
